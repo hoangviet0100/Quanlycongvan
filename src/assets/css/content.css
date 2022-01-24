@@ -1,0 +1,19 @@
+.content{
+    min-height: 50vh;
+}
+
+.container{
+    display: flex;
+    margin: auto;
+    flex-wrap: wrap;
+}
+
+.container1{
+    flex-wrap: wrap;
+}
+.col1{
+    width: 16.66666%;
+    display: flex;
+    padding: 12px;
+    
+}

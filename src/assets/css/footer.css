@@ -1,0 +1,9 @@
+.row1{
+    flex-direction: column;
+    align-items: center;
+    background: #FFC0CB;
+    border-radius: 2%;
+}
+.row-item{
+    text-align: center;
+}
