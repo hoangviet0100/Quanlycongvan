@@ -1,0 +1,96 @@
+.form-header{
+    
+    border-bottom: 3px solid black;
+    float: right;
+    padding: 55px 95px 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    display: flex;
+}
+
+.sohieu{
+    padding-right: 20px;
+    
+}
+
+.trichyeu{
+    padding-right: 36px;
+}
+
+.loaivanban{
+    padding-right: 22px;
+}
+
+.noibanhanh{
+    padding-right: 17px;
+}
+.form-header2{
+    padding-left: 50px;
+}
+
+.form-header3{
+    padding-left: 200px;
+}
+
+.form-header4{
+    padding-left: 200px;
+}
+
+input{
+    width: auto;
+}
+
+.select{
+    width: auto;
+}
+
+.nam{
+    padding-right: 10px;
+}
+
+button{
+    border-radius: 5px;
+    width: 100px;
+}
+
+.form-header2{
+    
+    
+    float: right;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    
+}
+
+.list-docs {
+    padding-top: 50px;
+    padding-right: 200px;
+    width: auto;
+}
+
+ul{
+    list-style: square;
+    
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+.chucnang>a{
+    float: right;
+    padding-right: 10px;
+}

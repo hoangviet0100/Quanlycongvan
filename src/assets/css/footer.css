@@ -1,9 +1,30 @@
-.row1{
-    flex-direction: column;
-    align-items: center;
-    background: #FFC0CB;
-    border-radius: 2%;
+*{
+	margin:0px;
+	padding:0px;
 }
-.row-item{
-    text-align: center;
+body{
+	background-color: #EEEEEE;
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	font-family:"Times New Roman", Times, serif;
 }
+
+footer{
+	clear:both;
+}
+.ketthuc{
+    height: 40px;
+    background-color: #186BAB;
+	font-weight:bold;
+	font-size:20px;
+}
+
+
+
+
+
+
+
+
+
+
